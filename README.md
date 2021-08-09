@@ -1,24 +1,12 @@
 # samuel-web
 
-## Project setup
+###Its my new website, but in VueJS (and some Vuetify 😁️).
+
+#### Just git clone it and execute: 
 ```
 npm install
 ```
-
-### Compiles and hot-reloads for development
+#### Use this to compile for development:
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
