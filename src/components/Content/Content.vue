@@ -1,5 +1,5 @@
 <template lang="pug">
-  v-card
+  v-card(tile)
     v-card-text
 </template>
 
